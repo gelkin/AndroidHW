@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RSSReaderSQL</string>
+
+    <string name="addChannel">Add channel</string>
+    <string name="updateAllChannels">Update all</string>
+
+    <string name="editChannel">Edit</string>
+    <string name="deleteChannel">Delete</string>
+
+    <string name="typeURL">Type address of rss-channel</string>
+    <string name="typeName">Type displaying name</string>
+
+    <string name="tapToUpdate">Tap to update...</string>
+
+    <string name="updateAllMsg">All channels are updated</string>
+    <string name="singleUpdateMsg">Channel is updated</string>
+
+    <string name="emptyURL">URL cannot be empty</string>
+    <string name="malformedURL">URL is malformed</string>
+    <string name="emptyName">Name cannot be empty</string>
+    <string name="dbIsNotOpened">Database isn\'t opened</string>
+
+</resources>

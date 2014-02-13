@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RSSReaderService</string>
+    <string name="NothingToShow">Nothing to show =(</string>
+    <string name="WrongURL">Wrong URL</string>
+    <string name="RSSLost">RSS-channel is lost, empty or contains errors</string>
+    <string name="ChannelReadingError">Channel reading error</string>
+</resources>

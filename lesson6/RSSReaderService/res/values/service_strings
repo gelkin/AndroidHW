@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="item">item</string>
+    <string name="entry">entry</string>
+    <string name="summary">summary</string>
+    <string name="content">content</string>
+
+    <string name="task">task</string>
+    <string name="url">url</string>
+    <string name="UPDATE">UPDATE</string>
+    <string name="SET_URL">SET_URL</string>
+    <string name="items">items</string>
+
+</resources>
